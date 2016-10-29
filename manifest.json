@@ -1,0 +1,7 @@
+{
+  "name": "poly-contact-app1",
+  "short_name": "poly-contact-app1",
+  "description": "contact app desc",
+  "start_url": "/",
+  "display": "standalone"
+}
